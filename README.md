@@ -6,9 +6,8 @@ A Jupyter-based mathematics project for solving and explaining mathematical prob
 
 ```
 JupyterProject1/
-├── config/
-│   ├── system_prompt.md      # System prompt for AI (text format)
-│   └── config.py             # Configuration file with prompts as Python constants
+├── config/ 
+│── config.py             # Configuration file with prompts as Python constants
 ├── data/                     # Data files and datasets
 ├── models/                   # Trained models or model definitions
 ├── notebooks/                # Jupyter notebooks
