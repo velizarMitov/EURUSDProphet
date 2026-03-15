@@ -121,6 +121,7 @@ This project was developed as an academic exercise in applying mathematical and 
 
 ## Author & Credits
 
+**Author**: Velizar Mitov  
 **Project**: EURUSDProphet  
 **Focus**: Mathematical and Statistical Analysis  
 **Data Source**: Yahoo Finance (via yfinance library)  
