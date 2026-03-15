@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1157cbd1-6337-49c4-a459-ea55226aa30d" name="Changes" comment="Add yfinance and seaborn to requirements; enhance sample notebook with EUR/USD analysis" />
+    <list default="true" id="1157cbd1-6337-49c4-a459-ea55226aa30d" name="Changes" comment="Add data overview and sources section to sample notebook" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +17,8 @@
   </component>
   <component name="CopilotUserSelectedModel">
     <selectedModels>
-      <entry key="chat-panel" value="Gemini 2.5 Pro" />
-      <entry key="agent-panel" value="Gemini 2.5 Pro" />
+      <entry key="chat-panel" value="Claude Haiku 4.5" />
+      <entry key="agent-panel" value="Claude Haiku 4.5" />
     </selectedModels>
   </component>
   <component name="Git.Settings">
@@ -82,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773550993061</updated>
-      <workItem from="1773550994498" duration="3995000" />
+      <workItem from="1773550994498" duration="10424000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project structure with configuration, README, and .gitignore">
       <option name="closed" value="true" />
@@ -116,7 +116,63 @@
       <option name="project" value="LOCAL" />
       <updated>1773555537538</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Enhance sample notebook with execution metadata and output for EUR/USD data loading">
+      <option name="closed" value="true" />
+      <created>1773555863636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773555863636</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding Covariace and Correlation with S&amp;P 500 data (same 5 year)">
+      <option name="closed" value="true" />
+      <created>1773557732398</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773557732398</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add Central Limit Theorem simulation and interpretation to sample notebook">
+      <option name="closed" value="true" />
+      <created>1773558254754</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773558254754</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add analysis of probability and conditional probability in sample notebook">
+      <option name="closed" value="true" />
+      <created>1773558473225</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773558473225</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add conclusion section to sample notebook with key findings and future research directions">
+      <option name="closed" value="true" />
+      <created>1773559169468</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1773559169468</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updated Charts and logic structure &#10;code refactoring">
+      <option name="closed" value="true" />
+      <created>1773598041393</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1773598041393</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add data overview and sources section to sample notebook">
+      <option name="closed" value="true" />
+      <created>1773598273321</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1773598273321</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,9 +181,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update README.md to enhance project description, installation instructions, and usage guidelines" />
     <MESSAGE value="add initial project structure with configuration, README, and .gitignore" />
-    <MESSAGE value="Enhance sample notebook with execution metadata and output for EUR/USD data loading" />
     <MESSAGE value="Add yfinance and seaborn to requirements; enhance sample notebook with EUR/USD analysis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add yfinance and seaborn to requirements; enhance sample notebook with EUR/USD analysis" />
+    <MESSAGE value="Enhance sample notebook with execution metadata and output for EUR/USD data loading" />
+    <MESSAGE value="Adding Covariace and Correlation with S&amp;P 500 data (same 5 year)" />
+    <MESSAGE value="Add Central Limit Theorem simulation and interpretation to sample notebook" />
+    <MESSAGE value="Add analysis of probability and conditional probability in sample notebook" />
+    <MESSAGE value="Add conclusion section to sample notebook with key findings and future research directions" />
+    <MESSAGE value="updated Charts and logic structure &#10;code refactoring" />
+    <MESSAGE value="Add data overview and sources section to sample notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add data overview and sources section to sample notebook" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
